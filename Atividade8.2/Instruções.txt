@@ -1,0 +1,26 @@
+Arquivos "prec" são anomalia
+
+Arquivos "pr" são os arquivos base recortados
+
+
+Objetivos do TCC:
+
+Precipitação:
+- Criar gráfico de linhas
+  (discutir se é melhor demonstrar a média climatológica ou apenas precipitação base)
+  NCL GraficoLinha.ncl
+
+Anomalia:
+- Criar boxplot
+  (definir se vale a pena utilizar para ambas anomalia e precipitação)
+  Ainda criar arquivo NCL
+
+
+Talvez criar arquivo .nc para gerar arquivo de climatologia
+
+
+Perguntar se é melhor usar R no lugar de NCL para fazer os gráficos
+Argumento do TCC será de que NCL é apenas para tratamento dos dados
+
+Criar arquivo .nc onde não é calculado anomalia nem climatologia, mas sim
+recortado o arquivo com as bacias
